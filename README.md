@@ -11,7 +11,7 @@ I'm studying Software Engineering at the University of Minho. Passionate about s
 # 📊 Stats:
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=granjaukf&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=granjaukf&theme=transparent&hide_border=false" width="450" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=granjaukf&theme=transparent&hide_border=false" width="430" />
 </div>
 
 
