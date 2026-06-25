@@ -1,4 +1,3 @@
-# About Me:
 Turning ideas into reality, one line of code at a time. Passionate about problem-solving, optimization, and building efficient systems. Always exploring, always evolving. 🚀  
 
 I'm studying Artifical Intelligence with background in Software Engineering at the University of Minho. Passionate about sports and personal development.
