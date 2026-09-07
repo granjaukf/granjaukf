@@ -1,4 +1,5 @@
-Turning ideas into reality. Passionate about problem-solving, optimization, and building efficient systems. Always exploring, always evolving.
+Turning ideas into reality. Passionate about problem-solving, optimization, and building efficient systems. 
+Always exploring, always evolving.
 
 I'm studying Artifical Intelligence with background in Software Engineering at the University of Minho.
 
